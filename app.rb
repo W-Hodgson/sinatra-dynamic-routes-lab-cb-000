@@ -38,7 +38,7 @@ class App < Sinatra::Base
     @number2 = params[:number2]
 
     if @operation == "add"
-
+      
     elsif @operation == "multiply"
 
     elsif @operation == "subtract"
